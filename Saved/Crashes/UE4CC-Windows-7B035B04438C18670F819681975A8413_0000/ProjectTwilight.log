@@ -1,0 +1,977 @@
+﻿Log file open, 06/24/19 13:54:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjectTwilight
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.433310
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: F:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.24-05.54.56:636][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.24-05.54.56:636][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.24-05.54.56:636][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/ProjectTwilight/Saved/Config/Windows/Engine.ini]
+[2019.06.24-05.54.56:636][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.24-05.54.56:636][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.06.24-05.54.56:636][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/ProjectTwilight/Saved/Config/Windows/Engine.ini]
+[2019.06.24-05.54.56:636][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/ProjectTwilight/Saved/Config/Windows/Engine.ini]
+[2019.06.24-05.54.56:636][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.24-05.54.56:636][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.24-05.54.56:636][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.24-05.54.56:636][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.24-05.54.56:636][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.24-05.54.56:636][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.24-05.54.56:636][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.24-05.54.56:636][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.24-05.54.56:636][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.24-05.54.56:636][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.24-05.54.56:636][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.24-05.54.56:636][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.24-05.54.56:636][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.24-05.54.56:637][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/ProjectTwilight/Saved/Config/Windows/Engine.ini]
+[2019.06.24-05.54.56:637][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.24-05.54.56:637][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.24-05.54.56:637][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.24-05.54.56:637][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.24-05.54.56:637][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.24-05.54.56:637][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.24-05.54.56:637][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.06.24-05.54.56:637][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.24-05.54.56:637][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.24-05.54.56:637][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.24-05.54.56:637][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.24-05.54.56:637][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.24-05.54.56:637][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.24-05.54.56:637][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/ProjectTwilight/Saved/Config/Windows/Engine.ini]
+[2019.06.24-05.54.56:637][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/ProjectTwilight/Saved/Config/Windows/Engine.ini]
+[2019.06.24-05.54.56:646][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/ProjectTwilight/Saved/Config/Windows/Scalability.ini]
+[2019.06.24-05.54.56:646][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.24-05.54.56:646][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.24-05.54.56:646][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/ProjectTwilight/Saved/Config/Windows/Scalability.ini]
+[2019.06.24-05.54.56:646][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.24-05.54.56:646][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/ProjectTwilight/Saved/Config/Windows/Scalability.ini]
+[2019.06.24-05.54.56:646][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.24-05.54.56:646][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.24-05.54.56:646][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.24-05.54.56:646][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.24-05.54.56:646][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.24-05.54.56:646][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.24-05.54.56:646][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.24-05.54.56:646][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.24-05.54.56:646][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/ProjectTwilight/Saved/Config/Windows/Scalability.ini]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.24-05.54.56:647][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/ProjectTwilight/Saved/Config/Windows/Scalability.ini]
+[2019.06.24-05.54.56:647][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.24-05.54.56:648][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.24-05.54.56:648][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.24-05.54.56:648][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.24-05.54.56:648][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.24-05.54.56:648][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.24-05.54.56:648][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.24-05.54.56:648][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.24-05.54.56:648][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/ProjectTwilight/Saved/Config/Windows/Scalability.ini]
+[2019.06.24-05.54.56:648][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.24-05.54.56:648][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.24-05.54.56:648][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.24-05.54.56:648][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.24-05.54.56:648][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.24-05.54.56:648][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.24-05.54.56:648][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.24-05.54.56:648][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.24-05.54.56:648][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.24-05.54.56:648][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.24-05.54.56:648][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.24-05.54.56:648][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.24-05.54.56:648][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.24-05.54.56:648][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/ProjectTwilight/Saved/Config/Windows/Scalability.ini]
+[2019.06.24-05.54.56:648][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.24-05.54.56:648][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.24-05.54.56:648][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.24-05.54.56:648][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.24-05.54.56:689][  0]LogHAL: Display: Platform has ~ 16 GB [17116254208 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.24-05.54.56:689][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.06.24-05.54.56:689][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.24-05.54.56:689][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/ProjectTwilight/Saved/Config/Windows/Scalability.ini]
+[2019.06.24-05.54.56:689][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.24-05.54.56:689][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.24-05.54.56:689][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/ProjectTwilight/Saved/Config/Windows/Scalability.ini]
+[2019.06.24-05.54.56:689][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/ProjectTwilight/Saved/Config/Windows/Scalability.ini]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/ProjectTwilight/Saved/Config/Windows/Scalability.ini]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/ProjectTwilight/Saved/Config/Windows/Scalability.ini]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/ProjectTwilight/Saved/Config/Windows/Scalability.ini]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.24-05.54.56:690][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.24-05.54.56:691][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.24-05.54.56:691][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.24-05.54.56:691][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.24-05.54.56:691][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.24-05.54.56:691][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.24-05.54.56:691][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.24-05.54.56:691][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.24-05.54.56:691][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/ProjectTwilight/Saved/Config/Windows/Scalability.ini]
+[2019.06.24-05.54.56:691][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.24-05.54.56:691][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.24-05.54.56:691][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.24-05.54.56:691][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.24-05.54.56:691][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.06.24-05.54.56:691][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/ProjectTwilight/Saved/Config/Windows/Engine.ini]
+[2019.06.24-05.54.56:691][  0]LogInit: Computer: DESKTOP-DV43REA
+[2019.06.24-05.54.56:691][  0]LogInit: User: justf
+[2019.06.24-05.54.56:691][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.24-05.54.56:691][  0]LogInit: High frequency timer resolution =3.415989 MHz
+[2019.06.24-05.54.56:691][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.24-05.54.56:691][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.24-05.54.56:691][  0]LogMemory: Process Physical Memory: 97.45 MB used, 97.45 MB peak
+[2019.06.24-05.54.56:691][  0]LogMemory: Process Virtual Memory: 93.37 MB used, 93.37 MB peak
+[2019.06.24-05.54.56:691][  0]LogMemory: Physical Memory: 8561.39 MB used,  7761.94 MB free, 16323.33 MB total
+[2019.06.24-05.54.56:691][  0]LogMemory: Virtual Memory: 4663.47 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.06.24-05.54.56:894][  0]LogInit: Using OS detected language (zh-CN).
+[2019.06.24-05.54.56:894][  0]LogInit: Using OS detected locale (zh-CN).
+[2019.06.24-05.54.56:896][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh-Hans-CN/Editor.locres' could not be opened for reading!
+[2019.06.24-05.54.56:896][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh-Hans-CN/EditorTutorials.locres' could not be opened for reading!
+[2019.06.24-05.54.56:896][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh-Hans-CN/Keywords.locres' could not be opened for reading!
+[2019.06.24-05.54.56:897][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh-Hans-CN/Category.locres' could not be opened for reading!
+[2019.06.24-05.54.56:897][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh-Hans-CN/ToolTips.locres' could not be opened for reading!
+[2019.06.24-05.54.56:897][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh-Hans-CN/PropertyNames.locres' could not be opened for reading!
+[2019.06.24-05.54.56:897][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh-Hans-CN/Engine.locres' could not be opened for reading!
+[2019.06.24-05.54.56:897][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh-Hans-CN/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.06.24-05.54.56:897][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh-Hans-CN/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.06.24-05.54.56:897][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-Hans-CN/OnlineSubsystem.locres' could not be opened for reading!
+[2019.06.24-05.54.56:897][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-Hans-CN/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.06.24-05.54.56:994][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh-CN/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.06.24-05.54.56:994][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh-CN/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.06.24-05.54.56:994][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-CN/OnlineSubsystem.locres' could not be opened for reading!
+[2019.06.24-05.54.56:994][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-CN/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.06.24-05.54.56:995][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh-Hans/Editor.locres' could not be opened for reading!
+[2019.06.24-05.54.56:995][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh-Hans/EditorTutorials.locres' could not be opened for reading!
+[2019.06.24-05.54.56:995][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh-Hans/Keywords.locres' could not be opened for reading!
+[2019.06.24-05.54.56:995][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh-Hans/Category.locres' could not be opened for reading!
+[2019.06.24-05.54.56:995][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh-Hans/ToolTips.locres' could not be opened for reading!
+[2019.06.24-05.54.56:996][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh-Hans/PropertyNames.locres' could not be opened for reading!
+[2019.06.24-05.54.56:996][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh-Hans/Engine.locres' could not be opened for reading!
+[2019.06.24-05.54.56:997][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2019.06.24-05.54.56:997][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2019.06.24-05.54.56:997][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2019.06.24-05.54.56:998][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2019.06.24-05.54.56:998][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2019.06.24-05.54.56:998][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2019.06.24-05.54.56:998][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2019.06.24-05.54.56:998][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.06.24-05.54.56:998][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.06.24-05.54.56:998][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2019.06.24-05.54.56:999][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.06.24-05.54.57:070][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.24-05.54.57:198][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.24-05.54.57:198][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.24-05.54.57:652][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.24-05.54.57:652][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.24-05.54.57:792][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2019.06.24-05.54.57:792][  0]LogD3D11RHI:       2988/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.24-05.54.57:798][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.24-05.54.57:798][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.24-05.54.57:798][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.24-05.54.57:826][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.24-05.54.57:827][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.24-05.54.57:827][  0]LogWindows: EnumDisplayDevices:
+[2019.06.24-05.54.57:827][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2019.06.24-05.54.57:829][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.06.24-05.54.57:831][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.06.24-05.54.57:834][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.06.24-05.54.57:837][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.06.24-05.54.57:837][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2019.06.24-05.54.57:837][  0]LogD3D11RHI:   Driver Version: 416.94 (internal:25.21.14.1694, unified:416.94)
+[2019.06.24-05.54.57:837][  0]LogD3D11RHI:      Driver Date: 11-12-2018
+[2019.06.24-05.54.57:837][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2019.06.24-05.54.57:925][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.24-05.54.57:937][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.24-05.54.57:937][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.24-05.54.57:938][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.24-05.54.57:952][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.06.24-05.55.00:314][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.06.24-05.55.00:336][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.06.24-05.55.00:361][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.06.24-05.55.00:384][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.06.24-05.55.00:413][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.06.24-05.55.00:442][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.06.24-05.55.00:467][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.06.24-05.55.00:492][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.06.24-05.55.00:511][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.06.24-05.55.00:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.06.24-05.55.00:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.06.24-05.55.00:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.06.24-05.55.00:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.06.24-05.55.00:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.06.24-05.55.00:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.06.24-05.55.00:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.06.24-05.55.00:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.06.24-05.55.00:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.06.24-05.55.00:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.06.24-05.55.00:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.06.24-05.55.00:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.06.24-05.55.00:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.06.24-05.55.00:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.06.24-05.55.00:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.06.24-05.55.00:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.06.24-05.55.00:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.06.24-05.55.00:672][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.06.24-05.55.00:678][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.06.24-05.55.00:750][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.06.24-05.55.00:750][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.06.24-05.55.00:795][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.06.24-05.55.00:795][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.06.24-05.55.00:821][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.06.24-05.55.00:849][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.06.24-05.55.00:874][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.06.24-05.55.00:898][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.06.24-05.55.00:981][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.06.24-05.55.00:981][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.06.24-05.55.00:981][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.24-05.55.01:017][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.06.24-05.55.01:282][  0]LogShaderCompilers: Guid format shader working directory is 27 characters bigger than the processId version (G:/ProjectTwilight/Intermediate/Shaders/WorkingDirectory/70412/).
+[2019.06.24-05.55.01:283][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/justf/AppData/Local/Temp/UnrealShaderWorkingDir/CD6EFCBC48A15BF8AF1B349B7B802F5C/'.
+[2019.06.24-05.55.01:288][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.24-05.55.01:288][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.24-05.55.01:288][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.24-05.55.02:282][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.24-05.55.02:367][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/justf/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.24-05.55.02:368][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/justf/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.06.24-05.55.02:368][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/ProjectTwilight/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.24-05.55.02:368][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.24-05.55.02:368][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/ProjectTwilight/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.24-05.55.02:368][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.24-05.55.02:384][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.24-05.55.02:384][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.24-05.55.02:384][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.24-05.55.02:406][  0]LogDerivedDataCache: Using Local data cache path C:/Users/justf/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.24-05.55.02:406][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.24-05.55.02:406][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.24-05.55.02:447][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.24-05.55.02:448][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.24-05.55.02:449][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.24-05.55.02:584][  0]LogAssetRegistry: FAssetRegistry took 0.0378 seconds to start up
+[2019.06.24-05.55.03:146][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.24-05.55.03:588][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.24-05.55.03:588][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.06.24-05.55.03:588][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.24-05.55.03:588][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.06.24-05.55.03:588][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.06.24-05.55.03:609][  0]LogNetVersion: ProjectTwilight 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1927064497)
+[2019.06.24-05.55.05:028][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 4 prioritized culture(s) in 0.770635 seconds
+[2019.06.24-05.55.05:045][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.06.24-05.55.05:045][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.06.24-05.55.05:045][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.24-05.55.06:819][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.24-05.55.06:840][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.24-05.55.07:117][  0]SourceControl: 源码控制已禁用
+[2019.06.24-05.55.07:117][  0]SourceControl: 源码控制已禁用
+[2019.06.24-05.55.07:173][  0]SourceControl: 源码控制已禁用
+[2019.06.24-05.55.07:182][  0]SourceControl: 源码控制已禁用
+[2019.06.24-05.55.07:611][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.24-05.55.08:245][  0]LogOcInput: OculusInput pre-init called
+[2019.06.24-05.55.09:516][  0]LogEngine: Initializing Engine...
+[2019.06.24-05.55.09:519][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.24-05.55.09:522][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.06.24-05.55.09:797][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.24-05.55.09:826][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.24-05.55.10:136][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.24-05.55.10:263][  0]LogInit: FAudioDevice initialized.
+[2019.06.24-05.55.10:263][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.24-05.55.10:449][  0]LogDerivedDataCache: Saved boot cache 0.18s 71MB C:/Users/justf/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.24-05.55.10:469][  0]LogInit: Texture streaming: Enabled
+[2019.06.24-05.55.10:508][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.24-05.55.10:570][  0]LogInit: Transaction tracking system initialized
+[2019.06.24-05.55.10:638][  0]BlueprintLog: New page: 编辑器加载
+[2019.06.24-05.55.11:034][  0]LocalizationService: 本地化服务已禁用
+[2019.06.24-05.55.11:674][  0]LogFileCache: Scanning file cache for directory 'G:/ProjectTwilight/Content/' took 0.02s
+[2019.06.24-05.55.11:674][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.24-05.55.11:674][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.24-05.55.12:191][  0]SourceControl: 源码控制已禁用
+[2019.06.24-05.55.12:191][  0]Cmd: MAP LOAD FILE="G:/ProjectTwilight/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.24-05.55.12:192][  0]LightingResults: New page: 光照构建
+[2019.06.24-05.55.12:197][  0]MapCheck: New page: 地图检测
+[2019.06.24-05.55.12:197][  0]LightingResults: New page: 光照构建
+[2019.06.24-05.55.12:254][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.06.24-05.55.12:719][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.06.24-05.55.12:727][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.24-05.55.12:766][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.06.24-05.55.12:766][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.24-05.55.12:766][  0]MapCheck: 地图检测完成：0个错误，0 个警告，用时0.13毫秒完成。
+[2019.06.24-05.55.12:766][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.575
+[2019.06.24-05.55.13:057][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.24-05.55.13:068][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.24-05.55.13:083][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.24-05.55.13:094][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.24-05.55.13:108][  0]LogCollectionManager: Loaded 0 collections in 0.001531 seconds
+[2019.06.24-05.55.13:152][  0]LogFileCache: Scanning file cache for directory 'G:/ProjectTwilight/Saved/Collections/' took 0.01s
+[2019.06.24-05.55.13:152][  0]LogFileCache: Scanning file cache for directory 'G:/ProjectTwilight/Content/Developers/justf/Collections/' took 0.01s
+[2019.06.24-05.55.13:152][  0]LogFileCache: Scanning file cache for directory 'G:/ProjectTwilight/Content/Collections/' took 0.01s
+[2019.06.24-05.55.13:152][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.06.24-05.55.13:170][  0]LogContentBrowser: Native class hierarchy populated in 0.0172 seconds. Added 2732 classes and 659 folders.
+[2019.06.24-05.55.13:178][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.24-05.55.13:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:293][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:315][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:360][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:407][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:431][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:437][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:443][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:453][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:474][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:493][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:502][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:508][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:517][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:562][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:629][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:652][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:663][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:676][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:692][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:705][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:735][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:756][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:775][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.13:784][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.24-05.55.14:476][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.24-05.55.14:537][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2019.06.24-05.55.14:679][  0]LogSlate: Took 0.000340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.24-05.55.14:685][  0]LogSlate: Took 0.003044 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.06.24-05.55.14:687][  0]LogSlate: Took 0.000368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.24-05.55.14:714][  0]LogSlate: Took 0.019992 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.24-05.55.15:133][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.06.24-05.55.15:374][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.24-05.55.15:374][  0]LogLoad: (Engine Initialization) Total time: 24.32 seconds
+[2019.06.24-05.55.15:374][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.24-05.55.15:388][  0]LogEditorViewport: Clicking Background
+[2019.06.24-05.55.15:430][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2019.06.24-05.55.15:472][  0]LogAssetRegistry: Asset discovery search completed in 12.9108 seconds
+[2019.06.24-05.55.15:475][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.24-05.55.15:475][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2019.06.24-05.55.15:476][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.24-05.55.15:601][  0]LogSlate: Took 0.008087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.24-05.55.19:081][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.24-05.55.49:896][138]LogSlate: Took 0.000347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.24-05.55.49:952][138]LogMetaData: Removing '/Game/Blueprints/General/TGameMode.TGameMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/TGameMode.PackageMetaData'
+[2019.06.24-05.55.49:953][138]LogMetaData: Removing '/Game/Blueprints/General/TGameMode.TGameMode_C' ref from Metadata '/Game/Blueprints/TGameMode.PackageMetaData'
+[2019.06.24-05.55.49:953][138]LogMetaData: Removing '/Game/Blueprints/General/TGameMode.TGameMode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/TGameMode.PackageMetaData'
+[2019.06.24-05.55.49:953][138]LogMetaData: Removing '/Game/Blueprints/General/TGameMode.TGameMode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/TGameMode.PackageMetaData'
+[2019.06.24-05.55.49:953][138]LogMetaData: Removing '/Game/Blueprints/General/TGameMode.SKEL_TGameMode_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/TGameMode.PackageMetaData'
+[2019.06.24-05.55.49:953][138]LogMetaData: Removing '/Game/Blueprints/General/TGameMode.SKEL_TGameMode_C:ReceiveTick' ref from Metadata '/Game/Blueprints/TGameMode.PackageMetaData'
+[2019.06.24-05.55.49:953][138]LogMetaData: Removing '/Game/Blueprints/General/TGameMode.SKEL_TGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/TGameMode.PackageMetaData'
+[2019.06.24-05.55.49:953][138]LogMetaData: Removing '/Game/Blueprints/General/TGameMode.SKEL_TGameMode_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/TGameMode.PackageMetaData'
+[2019.06.24-05.55.49:953][138]LogMetaData: Removing '/Game/Blueprints/General/TGameMode.SKEL_TGameMode_C' ref from Metadata '/Game/Blueprints/TGameMode.PackageMetaData'
+[2019.06.24-05.55.49:953][138]LogMetaData: Removing '/Game/Blueprints/General/TGameMode.TGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/TGameMode.PackageMetaData'
+[2019.06.24-05.55.49:997][138]LogMetaData: Removing '/Game/Blueprints/General/THUD.THUD:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/THUD.PackageMetaData'
+[2019.06.24-05.55.49:997][138]LogMetaData: Removing '/Game/Blueprints/General/THUD.THUD_C' ref from Metadata '/Game/Blueprints/THUD.PackageMetaData'
+[2019.06.24-05.55.49:998][138]LogMetaData: Removing '/Game/Blueprints/General/THUD.THUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/THUD.PackageMetaData'
+[2019.06.24-05.55.49:998][138]LogMetaData: Removing '/Game/Blueprints/General/THUD.THUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/THUD.PackageMetaData'
+[2019.06.24-05.55.49:998][138]LogMetaData: Removing '/Game/Blueprints/General/THUD.THUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/THUD.PackageMetaData'
+[2019.06.24-05.55.49:998][138]LogMetaData: Removing '/Game/Blueprints/General/THUD.SKEL_THUD_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/THUD.PackageMetaData'
+[2019.06.24-05.55.49:998][138]LogMetaData: Removing '/Game/Blueprints/General/THUD.SKEL_THUD_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/THUD.PackageMetaData'
+[2019.06.24-05.55.49:998][138]LogMetaData: Removing '/Game/Blueprints/General/THUD.SKEL_THUD_C:ReceiveTick' ref from Metadata '/Game/Blueprints/THUD.PackageMetaData'
+[2019.06.24-05.55.49:998][138]LogMetaData: Removing '/Game/Blueprints/General/THUD.SKEL_THUD_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/THUD.PackageMetaData'
+[2019.06.24-05.55.49:998][138]LogMetaData: Removing '/Game/Blueprints/General/THUD.SKEL_THUD_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/THUD.PackageMetaData'
+[2019.06.24-05.55.49:998][138]LogMetaData: Removing '/Game/Blueprints/General/THUD.SKEL_THUD_C' ref from Metadata '/Game/Blueprints/THUD.PackageMetaData'
+[2019.06.24-05.55.49:998][138]LogMetaData: Removing '/Game/Blueprints/General/THUD.THUD_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/THUD.PackageMetaData'
+[2019.06.24-05.55.49:998][138]LogMetaData: Removing '/Game/Blueprints/General/THUD.THUD_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/THUD.PackageMetaData'
+[2019.06.24-05.55.50:022][138]LogMetaData: Removing '/Game/Blueprints/General/TPlayerController.TPlayerController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/TPlayerController.PackageMetaData'
+[2019.06.24-05.55.50:022][138]LogMetaData: Removing '/Game/Blueprints/General/TPlayerController.TPlayerController_C' ref from Metadata '/Game/Blueprints/TPlayerController.PackageMetaData'
+[2019.06.24-05.55.50:022][138]LogMetaData: Removing '/Game/Blueprints/General/TPlayerController.TPlayerController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/TPlayerController.PackageMetaData'
+[2019.06.24-05.55.50:023][138]LogMetaData: Removing '/Game/Blueprints/General/TPlayerController.TPlayerController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/TPlayerController.PackageMetaData'
+[2019.06.24-05.55.50:023][138]LogMetaData: Removing '/Game/Blueprints/General/TPlayerController.SKEL_TPlayerController_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/TPlayerController.PackageMetaData'
+[2019.06.24-05.55.50:023][138]LogMetaData: Removing '/Game/Blueprints/General/TPlayerController.SKEL_TPlayerController_C:ReceiveTick' ref from Metadata '/Game/Blueprints/TPlayerController.PackageMetaData'
+[2019.06.24-05.55.50:023][138]LogMetaData: Removing '/Game/Blueprints/General/TPlayerController.SKEL_TPlayerController_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/TPlayerController.PackageMetaData'
+[2019.06.24-05.55.50:023][138]LogMetaData: Removing '/Game/Blueprints/General/TPlayerController.SKEL_TPlayerController_C' ref from Metadata '/Game/Blueprints/TPlayerController.PackageMetaData'
+[2019.06.24-05.55.50:074][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/General/TGameMode" FILE="G:/ProjectTwilight/Content/Blueprints/General/TGameMode.uasset" SILENT=true
+[2019.06.24-05.55.50:101][138]LogSavePackage: Moving 'G:/ProjectTwilight/Saved/TGameMode67A9EB0845330FF1D4CB54865CE2E54A.tmp' to 'G:/ProjectTwilight/Content/Blueprints/General/TGameMode.uasset'
+[2019.06.24-05.55.50:128][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TGameMode" FILE="G:/ProjectTwilight/Content/Blueprints/TGameMode.uasset" SILENT=true
+[2019.06.24-05.55.50:157][138]LogSavePackage: Moving 'G:/ProjectTwilight/Saved/TGameMode08D7E559415AD3928D78D8B92CDE752B.tmp' to 'G:/ProjectTwilight/Content/Blueprints/TGameMode.uasset'
+[2019.06.24-05.55.50:202][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/General/THUD" FILE="G:/ProjectTwilight/Content/Blueprints/General/THUD.uasset" SILENT=true
+[2019.06.24-05.55.50:235][138]LogSavePackage: Moving 'G:/ProjectTwilight/Saved/THUD84CFFF704A303682BE6866AA51B3AEF8.tmp' to 'G:/ProjectTwilight/Content/Blueprints/General/THUD.uasset'
+[2019.06.24-05.55.50:261][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/General/TPlayerController" FILE="G:/ProjectTwilight/Content/Blueprints/General/TPlayerController.uasset" SILENT=true
+[2019.06.24-05.55.50:292][138]LogSavePackage: Moving 'G:/ProjectTwilight/Saved/TPlayerControllerD174423D41A2ABD87DC1A2953BFD20E0.tmp' to 'G:/ProjectTwilight/Content/Blueprints/General/TPlayerController.uasset'
+[2019.06.24-05.55.50:574][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.06.24-05.55.50:600][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.06.24-05.55.50:637][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.06.24-05.55.50:663][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.06.24-05.55.55:418][579]LogMetaData: Removing '/Game/Blueprints/Tweet/Tweet.Tweet' ref from Metadata '/Game/Blueprints/Tweet.PackageMetaData'
+[2019.06.24-05.55.55:418][579]LogMetaData: Removing '/Game/Blueprints/Tweet/Tweet.Tweet:Content_7_1D3DC3294880C5ACE6507B90EAC48DE6' ref from Metadata '/Game/Blueprints/Tweet.PackageMetaData'
+[2019.06.24-05.55.55:419][579]LogMetaData: Removing '/Game/Blueprints/Tweet/Tweet.Tweet:Time_5_885E2F6448813B086CB587847E246CA0' ref from Metadata '/Game/Blueprints/Tweet.PackageMetaData'
+[2019.06.24-05.55.55:419][579]LogMetaData: Removing '/Game/Blueprints/Tweet/Tweet.Tweet:AccountName_3_360810074283FA9452B482A2A829034F' ref from Metadata '/Game/Blueprints/Tweet.PackageMetaData'
+[2019.06.24-05.55.55:447][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.TweetContent_C' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:447][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.TweetContent:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:447][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.TweetContent:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:448][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.TweetContent:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:448][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.SKEL_TweetContent_C:PreConstruct' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:448][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.SKEL_TweetContent_C:Construct' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:448][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.SKEL_TweetContent_C:Tick' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:448][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.SKEL_TweetContent_C:TweetContentAvatar' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:448][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.SKEL_TweetContent_C:TweetContentTime' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:448][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.SKEL_TweetContent_C:TweetContentName' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:448][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.SKEL_TweetContent_C:TweetContentText' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:448][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.SKEL_TweetContent_C:TweetContentBackground' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:448][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.SKEL_TweetContent_C:time' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:448][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.SKEL_TweetContent_C:name' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:448][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.SKEL_TweetContent_C:content' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:448][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.SKEL_TweetContent_C:avatar' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:448][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.SKEL_TweetContent_C:aabackground' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:449][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.SKEL_TweetContent_C' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:449][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.TweetContent_C:TweetContentAvatar' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:449][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.TweetContent_C:TweetContentTime' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:449][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.TweetContent_C:TweetContentName' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:449][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.TweetContent_C:TweetContentText' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:449][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.TweetContent_C:TweetContentBackground' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:449][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.TweetContent_C:time' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:449][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.TweetContent_C:name' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:449][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.TweetContent_C:content' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:449][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.TweetContent_C:avatar' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:449][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.TweetContent_C:aabackground' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:449][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TweetContent.TweetContent_C:Construct' ref from Metadata '/Game/Blueprints/TweetContent.PackageMetaData'
+[2019.06.24-05.55.55:474][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.TwitterWidget_C' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:474][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.TwitterWidget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:474][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.TwitterWidget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:474][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.TwitterWidget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.TwitterWidget:Get_callsign_Text_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.TwitterWidget:Get_callsign_Text_0.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.TwitterWidget:AddTweets.K2Node_Tunnel_0' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.TwitterWidget:AddTweets.K2Node_Tunnel_1' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.TwitterWidget:TestTweetGenerator.K2Node_Tunnel_1' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.TwitterWidget:TestTweetGenerator.K2Node_Tunnel_0' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.SKEL_TwitterWidget_C:PreConstruct' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.SKEL_TwitterWidget_C:Construct' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.SKEL_TwitterWidget_C:Tick' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.SKEL_TwitterWidget_C:TweetArray' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.SKEL_TwitterWidget_C:AccountAvatar' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.SKEL_TwitterWidget_C:AccountCallsign' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.SKEL_TwitterWidget_C:AccountName' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.SKEL_TwitterWidget_C:TweetListPanel' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.SKEL_TwitterWidget_C:name' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.SKEL_TwitterWidget_C:Image_789' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.SKEL_TwitterWidget_C:Image_693' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.SKEL_TwitterWidget_C:callsign' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.SKEL_TwitterWidget_C:avatar' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.SKEL_TwitterWidget_C' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.TwitterWidget_C:TweetArray' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.TwitterWidget_C:AccountAvatar' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.TwitterWidget_C:AccountCallsign' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.TwitterWidget_C:AccountName' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.TwitterWidget_C:TweetListPanel' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.TwitterWidget_C:name' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.TwitterWidget_C:Image_789' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:475][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.TwitterWidget_C:Image_693' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:476][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.TwitterWidget_C:callsign' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:476][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.TwitterWidget_C:avatar' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:476][579]LogMetaData: Removing '/Game/Blueprints/Tweet/TwitterWidget.TwitterWidget_C:Construct' ref from Metadata '/Game/Blueprints/TwitterWidget.PackageMetaData'
+[2019.06.24-05.55.55:532][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tweet/Tweet" FILE="G:/ProjectTwilight/Content/Blueprints/Tweet/Tweet.uasset" SILENT=true
+[2019.06.24-05.55.55:550][579]LogSavePackage: Moving 'G:/ProjectTwilight/Saved/Tweet95F98B0444A99C432B37FC83C0C6D6A1.tmp' to 'G:/ProjectTwilight/Content/Blueprints/Tweet/Tweet.uasset'
+[2019.06.24-05.55.55:573][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tweet/TweetContent" FILE="G:/ProjectTwilight/Content/Blueprints/Tweet/TweetContent.uasset" SILENT=true
+[2019.06.24-05.55.55:628][579]LogSavePackage: Moving 'G:/ProjectTwilight/Saved/TweetContent40DEE9BC422133E5698627BAC1139CC6.tmp' to 'G:/ProjectTwilight/Content/Blueprints/Tweet/TweetContent.uasset'
+[2019.06.24-05.55.55:650][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tweet/TwitterWidget" FILE="G:/ProjectTwilight/Content/Blueprints/Tweet/TwitterWidget.uasset" SILENT=true
+[2019.06.24-05.55.55:732][579]LogSavePackage: Moving 'G:/ProjectTwilight/Saved/TwitterWidgetAB8C47F94804CF2A23EDAD8C3C43F1E1.tmp' to 'G:/ProjectTwilight/Content/Blueprints/Tweet/TwitterWidget.uasset'
+[2019.06.24-05.55.56:075][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.06.24-05.55.56:104][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.06.24-05.55.56:132][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.06.24-05.55.56:168][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.06.24-05.55.56:194][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.06.24-05.55.56:229][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseWidget" FILE="G:/ProjectTwilight/Content/Blueprints/BaseWidget.uasset" SILENT=true
+[2019.06.24-05.55.56:270][579]LogSavePackage: Moving 'G:/ProjectTwilight/Saved/BaseWidget7C9CB7BB4CB8D52C16ABE9B89E205CD8.tmp' to 'G:/ProjectTwilight/Content/Blueprints/BaseWidget.uasset'
+[2019.06.24-05.59.09:860][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.24-05.59.09:934][685]LogTemp: Repeating last play command: 选中的视口
+[2019.06.24-05.59.09:948][685]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-05.59.09:948][685]BlueprintLog: New page: 运行前自动重新编译
+[2019.06.24-05.59.09:952][685]LogPlayLevel: [PlayLevel] Compiling BaseWidget before play...
+[2019.06.24-05.59.09:983][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.06.24-05.59.09:983][685]LogPlayLevel: PlayLevel: Blueprint regeneration took 35 ms (1 blueprints)
+[2019.06.24-05.59.09:983][685]PIE: New page: PIE会话: Minimal_Default (2019年6月24日 下午9:59:09)
+[2019.06.24-05.59.09:995][685]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.06.24-05.59.09:997][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001347s)
+[2019.06.24-05.59.09:998][685]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.06.24-05.59.09:998][685]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2019.06.24-05.59.09:998][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.002743s)
+[2019.06.24-05.59.10:029][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.06.24-05.59.10:196][685]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.24-05.59.10:271][685]LogInit: FAudioDevice initialized.
+[2019.06.24-05.59.10:317][685]LogLoad: Game class is 'TGameMode_C'
+[2019.06.24-05.59.10:319][685]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.06.24-13.59.10
+[2019.06.24-05.59.10:319][685]LogWorld: Bringing up level for play took: 0.000449
+[2019.06.24-05.59.10:338][685]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.06.24-05.59.10:342][685]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoBold.RobotoBold', Character: '中 (U+4e2d)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2019.06.24-05.59.10:353][685]PIE: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default的‘在编辑器中播放’的起始时间-0.415
+[2019.06.24-05.59.10:353][685]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-05.59.18:025][564]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-05.59.18:027][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.24-05.59.18:057][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.24-05.59.18:057][564]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-05.59.18:091][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.24-05.59.18:093][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.06.24-05.59.18:130][568]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.06.24-05.59.34:486][394]LogTemp: Repeating last play command: 选中的视口
+[2019.06.24-05.59.34:500][394]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-05.59.34:500][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.24-05.59.34:500][394]PIE: New page: PIE会话: Minimal_Default (2019年6月24日 下午9:59:34)
+[2019.06.24-05.59.34:500][394]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.06.24-05.59.34:502][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001225s)
+[2019.06.24-05.59.34:502][394]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.06.24-05.59.34:503][394]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2019.06.24-05.59.34:503][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.002148s)
+[2019.06.24-05.59.34:527][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.06.24-05.59.34:692][394]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.24-05.59.34:765][394]LogInit: FAudioDevice initialized.
+[2019.06.24-05.59.34:796][394]LogLoad: Game class is 'TGameMode_C'
+[2019.06.24-05.59.34:797][394]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.06.24-13.59.34
+[2019.06.24-05.59.34:797][394]LogWorld: Bringing up level for play took: 0.000331
+[2019.06.24-05.59.34:824][394]PIE: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default的‘在编辑器中播放’的起始时间0.055
+[2019.06.24-05.59.34:824][394]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-05.59.40:218][ 19]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-05.59.40:219][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.24-05.59.40:246][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.24-05.59.40:247][ 19]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-05.59.40:275][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.24-05.59.40:279][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.06.24-05.59.40:322][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.06.24-05.59.46:423][677]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/BaseWidget.BaseWidget
+[2019.06.24-05.59.47:204][677]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 121 classes and 0 folders.
+[2019.06.24-05.59.48:673][677]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.06.24-05.59.49:172][677]LogSlate: Took 0.022641 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.24-05.59.50:479][788]LogTemp: Repeating last play command: 选中的视口
+[2019.06.24-05.59.50:508][788]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-05.59.50:508][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.24-05.59.50:508][788]PIE: New page: PIE会话: Minimal_Default (2019年6月24日 下午9:59:50)
+[2019.06.24-05.59.50:508][788]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.06.24-05.59.50:510][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001369s)
+[2019.06.24-05.59.50:516][788]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.06.24-05.59.50:516][788]LogPlayLevel: PIE: World Init took: (0.006047s)
+[2019.06.24-05.59.50:516][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007529s)
+[2019.06.24-05.59.50:584][788]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2019.06.24-05.59.50:753][788]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.24-05.59.50:815][788]LogInit: FAudioDevice initialized.
+[2019.06.24-05.59.50:854][788]LogLoad: Game class is 'TGameMode_C'
+[2019.06.24-05.59.50:855][788]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.06.24-13.59.50
+[2019.06.24-05.59.50:855][788]LogWorld: Bringing up level for play took: 0.000491
+[2019.06.24-05.59.50:883][788]PIE: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default的‘在编辑器中播放’的起始时间0.115
+[2019.06.24-05.59.50:883][788]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-06.00.02:371][755]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-06.00.02:372][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.24-06.00.02:399][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.24-06.00.02:399][755]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-06.00.02:444][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.24-06.00.02:451][755]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2019.06.24-06.00.02:469][756]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.06.24-06.00.10:755][421]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Tweet/TwitterWidget.TwitterWidget
+[2019.06.24-06.00.13:156][591]LogTemp: Repeating last play command: 选中的视口
+[2019.06.24-06.00.13:177][591]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-06.00.13:177][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.24-06.00.13:177][591]PIE: New page: PIE会话: Minimal_Default (2019年6月24日 下午10:00:13)
+[2019.06.24-06.00.13:177][591]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.06.24-06.00.13:179][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001333s)
+[2019.06.24-06.00.13:179][591]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.06.24-06.00.13:179][591]LogPlayLevel: PIE: World Init took: (0.000503s)
+[2019.06.24-06.00.13:179][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.002007s)
+[2019.06.24-06.00.13:216][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.06.24-06.00.13:380][591]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.24-06.00.13:453][591]LogInit: FAudioDevice initialized.
+[2019.06.24-06.00.13:495][591]LogLoad: Game class is 'TGameMode_C'
+[2019.06.24-06.00.13:497][591]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.06.24-14.00.13
+[2019.06.24-06.00.13:497][591]LogWorld: Bringing up level for play took: 0.000598
+[2019.06.24-06.00.13:525][591]PIE: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default的‘在编辑器中播放’的起始时间0.757
+[2019.06.24-06.00.13:526][591]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-06.00.14:810][710]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-06.00.14:811][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.24-06.00.14:840][710]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.24-06.00.14:841][710]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-06.00.14:891][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.24-06.00.14:896][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.06.24-06.00.14:913][711]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.06.24-06.00.43:861][100]LogTemp: Repeating last play command: 选中的视口
+[2019.06.24-06.00.43:893][100]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-06.00.43:893][100]BlueprintLog: New page: 运行前自动重新编译
+[2019.06.24-06.00.43:895][100]LogPlayLevel: [PlayLevel] Compiling TwitterWidget before play...
+[2019.06.24-06.00.44:181][100]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.06.24-06.00.44:181][100]LogPlayLevel: PlayLevel: Blueprint regeneration took 287 ms (1 blueprints)
+[2019.06.24-06.00.44:181][100]PIE: New page: PIE会话: Minimal_Default (2019年6月24日 下午10:00:44)
+[2019.06.24-06.00.44:181][100]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.06.24-06.00.44:182][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001118s)
+[2019.06.24-06.00.44:183][100]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.06.24-06.00.44:183][100]LogPlayLevel: PIE: World Init took: (0.000536s)
+[2019.06.24-06.00.44:183][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.001758s)
+[2019.06.24-06.00.44:220][100]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.06.24-06.00.44:388][100]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.24-06.00.44:460][100]LogInit: FAudioDevice initialized.
+[2019.06.24-06.00.44:497][100]LogLoad: Game class is 'TGameMode_C'
+[2019.06.24-06.00.44:498][100]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.06.24-14.00.44
+[2019.06.24-06.00.44:498][100]LogWorld: Bringing up level for play took: 0.000537
+[2019.06.24-06.00.44:547][100]PIE: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default的‘在编辑器中播放’的起始时间-0.221
+[2019.06.24-06.00.44:547][100]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-06.00.49:666][424]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-06.00.49:668][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.24-06.00.49:697][424]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.24-06.00.49:698][424]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-06.00.49:740][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.24-06.00.49:745][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.06.24-06.00.49:781][426]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.06.24-06.00.52:140][610]LogTemp: Repeating last play command: 选中的视口
+[2019.06.24-06.00.52:161][610]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-06.00.52:161][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.24-06.00.52:161][610]PIE: New page: PIE会话: Minimal_Default (2019年6月24日 下午10:00:52)
+[2019.06.24-06.00.52:161][610]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.06.24-06.00.52:162][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001094s)
+[2019.06.24-06.00.52:163][610]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.06.24-06.00.52:163][610]LogPlayLevel: PIE: World Init took: (0.000480s)
+[2019.06.24-06.00.52:163][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.001672s)
+[2019.06.24-06.00.52:210][610]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2019.06.24-06.00.52:378][610]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.24-06.00.52:454][610]LogInit: FAudioDevice initialized.
+[2019.06.24-06.00.52:496][610]LogLoad: Game class is 'TGameMode_C'
+[2019.06.24-06.00.52:497][610]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.06.24-14.00.52
+[2019.06.24-06.00.52:498][610]LogWorld: Bringing up level for play took: 0.000560
+[2019.06.24-06.00.52:546][610]PIE: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default的‘在编辑器中播放’的起始时间-0.222
+[2019.06.24-06.00.52:546][610]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-06.00.57:939][930]Cmd: TRANSACTION UNDO
+[2019.06.24-06.00.57:939][930]LogEditorTransaction: Undo 移动控件
+[2019.06.24-06.01.01:553][148]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-06.01.01:558][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.24-06.01.01:589][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.24-06.01.01:589][148]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.06.24-06.01.01:638][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.24-06.01.01:646][148]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2019.06.24-06.01.01:666][149]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.06.24-06.01.04:015][298]BlueprintLog: New page: 编译BaseWidget
+[2019.06.24-06.01.04:085][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.06.24-06.02.40:555][962]BlueprintLog: New page: 编译TwitterWidget
+[2019.06.24-06.02.40:782][962]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.06.24-06.02.42:493][962]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.711 s
+[2019.06.24-06.02.42:493][962]LogOutputDevice: Error: === Handled ensure: ===
+[2019.06.24-06.02.42:493][962]LogOutputDevice: Error: 
+[2019.06.24-06.02.42:493][962]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\UMG\Private\Slate\SObjectWidget.cpp] [Line: 43]
+[2019.06.24-06.02.42:493][962]LogOutputDevice: Error: SObjectWidget for 'TweetContent_C /Engine/Transient.World_1:BaseWidget_C_9.WidgetTree_0.TwitterWidget.WidgetTree_0.TweetContent_C_0' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2019.06.24-06.02.42:493][962]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2019.06.24-06.02.42:493][962]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2019.06.24-06.02.42:493][962]LogOutputDevice: Error: Stack: 
+[2019.06.24-06.02.42:493][962]LogOutputDevice: Error: [Callstack] 0x00007ffe84fddc3e UE4Editor-UMG.dll!UnknownFunction []
+[2019.06.24-06.02.42:493][962]LogOutputDevice: Error: [Callstack] 0x00007ffe84e626ea UE4Editor-UMG.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8727960a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8728fef9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe87271468 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8727a605 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8727960a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8728a260 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe872713e8 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8727a5b5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8727960a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8761da90 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe877432a8 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe87778b0a UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8727960a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8728a260 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe872713e8 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8727a5b5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8727960a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8728fe89 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe87271468 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8727a4c5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8727960a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8727a3d7 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8727960a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8728a260 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe872713e8 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8727a5b5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8727960a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8728a260 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe872713e8 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8727a5b5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8727960a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8728a260 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe872713e8 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8727a5b5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8727960a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8775084e UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.24-06.02.42:494][962]LogOutputDevice: Error: [Callstack] 0x00007ffe877430a8 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffe87746f29 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffe84f17c8b UE4Editor-UMG.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffe9bc70dcb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffe9bc4e3ec UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffe9bbfcded UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffe9bbfc3ca UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffe7fed2295 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffe86335644 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffe7ffbdde6 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffe7ffd9188 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffe875a180a UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffe87679122 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffe8765aa84 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffe87712a12 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffe87564021 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffe875e0301 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffe875caaca UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffe875c0414 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffed863b8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffed862ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffed863d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffed862c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffee5c76d41 USER32.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffee5c76713 USER32.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffed863e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ff620535d3e UE4Editor.exe!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ff62054554c UE4Editor.exe!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ff6205455ca UE4Editor.exe!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ff62055316c UE4Editor.exe!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ff620555b8e UE4Editor.exe!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffee56a4034 KERNEL32.DLL!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: [Callstack] 0x00007ffee6403691 ntdll.dll!UnknownFunction []
+[2019.06.24-06.02.42:495][962]LogOutputDevice: Error: 
+[2019.06.24-06.02.42:502][962]LogStats:                SubmitErrorReport -  0.000 s
